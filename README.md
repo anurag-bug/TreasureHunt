@@ -1,3 +1,3 @@
 # TreasureHunt
 
-Django project to host the goonj event Treasure Hunt online
+Django project to host the Goonj event (Annual Fest) Treasure Hunt online
